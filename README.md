@@ -6,9 +6,11 @@ Documentação do framework de testes para a aplicação **Urban Scooter**, cobr
 
 Este projeto contém a documentação e casos de teste para validação da aplicação Urban Scooter. Os testes foram desenvolvidos seguindo uma abordagem prática e direta, cobrindo as principais funcionalidades em três frentes:
 
-- **🌐 Testes Web**: Validação da interface web e funcionalidades do frontend
+- **🌐 Testes Web**: Validação da interface web e funcionalidades do frontend com testes Cross-browser (Chrome/Opera)
 - **📱 Testes Mobile**: Validação de aplicativos mobile (iOS/Android)
-- **🔌 Testes API**: Validação de endpoints e integrações
+- **🔌 Testes API**: Validação de contratos, códigos de status (HTTP Status Codes) e integridade de dados via endpoints REST
+
+**Metodologia**: Aplicação de técnicas de Classes de Equivalência, Valores Limite e testes Cross-browser (Chrome/Opera).
 
 ## 📁 Estrutura
 
@@ -31,9 +33,13 @@ A documentação completa dos casos de teste está disponível no arquivo Excel 
 - Casos de teste para Mobile  
 - Casos de teste para API
 - Cenários de teste e resultados esperados
+- **Rastreabilidade**: Gestão completa do ciclo de vida de defeitos com integração direta ao Jira
 
 ## 👤 Autor
 
 **Ismar D. Brito**
 
 - GitHub: [@IsmarDBrito](https://github.com/IsmarDBrito)
+- LinkedIn: https://www.linkedin.com/in/ismar-de-brito-costa-junior-6ab5b0377/
+
+⭐ Se este projeto foi útil para você, considere dar uma estrela!
