@@ -27,7 +27,7 @@ Framework-de-Testes-Integrados/
 
 ## 🔄 Fluxo de Trabalho de QA
 
-O processo de qualidade segue um fluxo estruturado desde a análise de requisitos até o fechamento de defeitos:
+O processo de qualidade segue um fluxo estruturado desde a análise de requisitos até a gestão de defeitos no Jira:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -60,14 +60,6 @@ O processo de qualidade segue um fluxo estruturado desde a análise de requisito
 │  5. GESTÃO NO JIRA                                             │
 │     • Criação de ticket com informações completas               │
 │     • Rastreabilidade: Requisito → Caso de Teste → Bug         │
-│     • Acompanhamento do ciclo de vida até resolução            │
-└─────────────────────────────────────────────────────────────────┘
-                        ↓
-┌─────────────────────────────────────────────────────────────────┐
-│  6. RETESTE E VALIDAÇÃO                                        │
-│     • Validação da correção implementada                        │
-│     • Regressão para garantir não quebra de funcionalidades    │
-│     • Fechamento do ticket após confirmação                     │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
