@@ -37,7 +37,3 @@ A documentação completa dos casos de teste está disponível no arquivo Excel 
 **Ismar D. Brito**
 
 - GitHub: [@IsmarDBrito](https://github.com/IsmarDBrito)
-
----
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela!
